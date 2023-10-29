@@ -1,7 +1,9 @@
 {
   "name": "ocr-demo",
+  "version": "0.0.1",
+  "description": "ocr-demo",
+  "author": "moselikk",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
